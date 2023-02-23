@@ -9,6 +9,9 @@
 
 use gl_types::*;
 
+mod special_numbers;
+pub use special_numbers::*;
+
 /// * Groups: `SamplePatternSGIS`, `SamplePatternEXT`
 pub const GL_1PASS_EXT: GLenum = 0x80A1;
 
