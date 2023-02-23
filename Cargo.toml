@@ -2,7 +2,7 @@
 name = "gl_constants"
 description = "Declares OpenGL and OpenGL ES enumerated constant values."
 repository = "https://github.com/Lokathor/gl_constants"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "Zlib OR Apache-2.0 OR MIT"
 
